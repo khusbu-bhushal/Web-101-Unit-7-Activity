@@ -11,7 +11,7 @@ const validateForm = (event) => {
 
 
         if (elements[i].value === "") {
-            console.log("This input is empty!");
+            console.log("This input is empty!"); //run this
         }
         else {
             console.log("This input has some data");
